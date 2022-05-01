@@ -1,4 +1,4 @@
-# Welcome to Remix!
+# Welcome to a Remix test project!
 
 - [Remix Docs](https://remix.run/docs)
 
@@ -7,6 +7,7 @@ This project was generated using `npx create-remix`, and then the following modi
 1. Introduced a functions directory which will be used firebase functions (Google Cloud Functions)[https://firebase.google.com/docs/functions]
 2. Updated remix.config.js to output server bundle into functions/build
 
+🍿 [Online demo](https://thisislawatts-remix-test-app.web.app/)
 ## Development
 
 From your terminal:
