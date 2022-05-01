@@ -7,3 +7,5 @@ firebase-debug.log
 /build
 /public/build
 .env
+/functions/build
+/functions/lib
