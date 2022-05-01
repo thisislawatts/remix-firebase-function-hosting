@@ -1,6 +1,8 @@
 node_modules
 
 .firebaserc
+firebase-debug.log
+
 /.cache
 /build
 /public/build
