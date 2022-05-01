@@ -9,7 +9,7 @@ export default function About() {
       <img
         src="./images/frederic-paulussen-776bX3KFp38-unsplash.jpg"
         width="450"
-        alt="Photo by Frédéric Paulussen"
+        alt="Rooftop view over Leiden center by Frédéric Paulussen"
       />
       <div>
         Photo by{" "}
